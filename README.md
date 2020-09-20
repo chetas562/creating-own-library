@@ -1,2 +1,2 @@
-# creating-own-library
-bounceoff sequel
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
